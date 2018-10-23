@@ -3,8 +3,9 @@ Title: Clinical trial treatment assignment functions
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Ricardo", family = "Oliveira", role = c("aut", "cre"), email = "ricoliveira10@hotmail.com")
-Description: Includes several functions for assigning patients to treatments in a clinical trial.
-Simple randomization, blocking, srtatified randomization and minimisation.
+Description:
+    Includes several functions for assigning patients to treatments in a clinical trial.
+    Simple randomization, blocking, srtatified randomization and minimisation.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
